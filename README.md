@@ -10,3 +10,8 @@ This code was written based on four modalities: T1, T2, T1CE, FLAIR.
 
 Tools can be obtained by running getTools.sh in util. (##You must install fsl yourself.)
 
+
+    cd util
+    ./getTools.sh
+
+# The preprocessing proceeds as follows.
