@@ -1,4 +1,4 @@
-# 3DMRI_Preprocessing
+# 3D MRI_Preprocessing
 
 This git provides preprocessing of raw 3d MRI in .py and .ipy
 
@@ -9,7 +9,7 @@ This code was written based on four modalities: T1, T2, T1CE, FLAIR.
 
 # Tools
 
-Tools can be obtained by running getTools.sh in util.
+Tools can be obtained by running getTools.sh in util.\
 but You must install fsl yourself.
 
 
