@@ -17,3 +17,5 @@ but You must install fsl yourself.
     ./getTools.sh
 
 # The preprocessing proceeds as follows.
+
+1. updating....
